@@ -9,7 +9,10 @@ body {
 
 article {
     width: 600px;
-    margin: auto;      
+    margin: 2em auto; 
+    border: 0px solid;
+    padding: 1.8em 2em;  
+    box-shadow: 0 10px 30px -15px rgba( 0, 0, 0, 0.3)
     }
 
 
